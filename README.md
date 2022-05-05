@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Xpsychoo
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently Working on ReactJS
+- 🌱 I’m currently Learning Strapi🌱 I’m currently Working on ReactJS
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 Mail me at shivvbhakt43@gmail.com
 

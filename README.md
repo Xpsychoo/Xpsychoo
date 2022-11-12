@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Xpsychoo
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently Working on ReactJS
-- 🌱 I’m currently Learning Strapi🌱 I’m currently Working on ReactJS
+- 👋 Hi, I’m Ajay Kumar
+- 🌱 I’m currently Working as a Frontend Developer (ReactJS/NextJs)
+- 🌱 I’ve currently started Learning NodeJs
 - 💞️ I’m looking to collaborate on Software Projects
-- 📫 Mail me at shivvbhakt43@gmail.com
+- 📫 Mail me at kumarrajay786@gmail.com
 
 <!---
 Xpsychoo/Xpsychoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

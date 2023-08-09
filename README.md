@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay Kumar
-- 🌱 I’m currently Working as a Frontend Developer (ReactJS/NextJs/AngularJs/NodeJs)
+- 🌱 I’m currently Working as a Software Developer (ReactJS/NextJs/AngularJs/NodeJs)
 - 🌱 I’ve currently started Learning React Native
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 Mail me at kumarrajay786@gmail.com
